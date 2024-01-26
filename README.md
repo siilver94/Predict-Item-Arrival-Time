@@ -10,7 +10,7 @@ src = https://github.com/siilver94/Predict-Item-Arrival-Time/assets/57824945/24f
 
 ## 프로젝트 소개
 
-고객 데이터를 활용하여 제품 배송 시간을 예측하여, `Reached on Time` 여부 분류
+이 프로젝트는 고객 데이터를 활용하여 제품 배송 시간을 예측하여, `Reached on Time` 여부를 예측합니다.
 
 <br/>
 
@@ -94,9 +94,11 @@ src = https://github.com/siilver94/Predict-Item-Arrival-Time/assets/57824945/24f
 
 ## 리뷰
 
-이 프로젝트를 통해 현실적이고 다양한 고객 데이터의 활용법을 배웠습니다. Logistic Regression, XGBoost, Random Forest 등 다양한 머신러닝 알고리즘을 적용하면서 각각의 특징과 장단점을 파악할 수 있었습니다. 모델링의 다양성을 경험하며 더 나은 선택을 할 수 있게 되었습니다.
+이 프로젝트를 통해 현실적이고 다양한 고객 데이터의 활용법을 배웠습니다. Logistic Regression, XGBoost, Random Forest 등 다양한 머신러닝 알고리즘을 적용하면서 각각의 특징과 장단점을 파악할 수 있었습니다. 
 
-Seaborn과 Matplotlib을 이용한 데이터 시각화는 데이터에 대한 통찰을 얻는 데 도움이 되었습니다. 숫자로만 보이던 것들이 그림으로 그려지니 훨씬 이해하기 쉬웠습니다.
+또한, 모델링의 다양성을 경험하며 더 나은 선택을 할 수 있게 되었습니다.
+
+Seaborn과 Matplotlib을 이용한 데이터 시각화는 데이터에 대한 통찰을 얻는 데 도움이 되었고 이를 통해 데이터를 그래프로 그리니 훨씬 이해하기 쉬웠습니다.
 
 프로젝트를 진행하면서 데이터의 품질과 정확성이 얼마나 중요한지 깨달았고 좋은 데이터가 있어야 좋은 모델을 만들 수 있다는 것을 항상 느끼는 것 같습니다.
 
